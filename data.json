@@ -1,0 +1,59 @@
+{"help":{
+    "info" : "Fetch personal information ",
+    "clear" : "Clear screen",
+    "all" : "Print all information",
+    "contact" : "Fetch contact details",
+    "projects" : "Fetch personal information",
+    "technical_strengths" : "Print technical strengths ",
+    "publications" : "Print publications",
+    "theme" : "list color themes",
+    "theme [theme name]" : "set theme to [theme]"
+  },
+  "info":{
+    "name" : "Vaibhav Kumar",
+    "sex" : "Male",
+    "age" : "20"
+  },
+  "theme":{
+    "pink-skin":"",
+    "dark-gold":""
+  },
+  "contact":{
+    "Email" : "kumar.vaibhav1o1@gmail.com",
+    "Phone" : "Nope",
+    "Github" : "<a href=\"https://github.com/TimeTraveller-San\"  target=\"_blank\">https://github.com/TimeTraveller-San</a>",
+    "Medium" : "<a href=\"https://medium.com/@timetraveller1998\"  target=\"_blank\">https://medium.com/@timetraveller1998</a>",
+    "Twitter" : "<a href=\"http://twitter.com/timetravellertt\"  target=\"_blank\">http://twitter.com/timetravellertt</a>",
+    "Kaggle" : "<a href=\"https://www.kaggle.com/timetraveller98\"  target=\"_blank\">https://www.kaggle.com/timetraveller98</a>",
+    "Tumblr": "<a href=\"https://www.tumblr.com/blog/not-timetraveller\"  target=\"_blank\">https://www.tumblr.com/blog/not-timetraveller</a>"
+  },
+  "projects":{
+    "DTUResult" : "Result compilation platform for Delhi Technological University (http://dturesult.com/)",
+    "yTermPlayer" : "Linux terminal based music player : pip install ytermplayer : A terminal based UI music player for linux to play youtube playlists as audio (https://github.com/TimeTraveller-San/yTermPlayer)",
+    "DatasetScraper" : "Tool to create image datasets for machine learning problems by scraping search engines like Google, Bing and Baidu.(https://github.com/TimeTraveller-San/DatasetScraper)",
+    "Real-Time Mapping of Epidemic Spreads": "A real-time epidemic mapping system which can work on the basis of trustworthy crowdsourced data to not only analyze the current epidemic but also prevent the future ones by providing intelligent estimates using state of the art machine learning and artificial intelligence techniques (https://github.com/TimeTraveller-San/Epidemic-Spread-SIH)",
+    "End-to-end image classifier" : "Anime image classifier : From scratch to deployment of deep learning (CNN) based image classifer of Shimura Otae (anime character) recognition (https://github.com/TimeTraveller-San/deep_learning_otae_detector). End-to-end with frontend: (https://github.com/TimeTraveller-San/ML-frontend-template)",
+    "Turing machine simulator" : "Universal Deterministic Turing machine simulator in python (https://github.com/TimeTraveller-San/Turing-machine-simulator)",
+    "Whatsapp.moe" : "Whatsapp web themer with automatic color extraction - Google chrome and firefox extension (https://whatsapp.netlify.com/#)"
+  },
+  "technical_strengths":{
+    "Programming Languages" : "Python, C++, Javascript (basic), bash scripting, prolog",
+    "Machine learning" : "OpenAI, Pytorch, Fast.ai, np-pd-sklearn",
+    "Web" : "Webscraping with BeautifulSoup, Flask and WSGIs",
+    "Web Frontend" : "Bootstrap, jquery (basic), CSS, HTML"
+  },
+  "publications":{
+    "Multiple Resource Management and Burst Time Prediction" : "<a href=\"https://www.seekdl.org/conferences/file/paper/20190429_113049.pdf\"  target=\"_blank\">Click here</a>",
+    "Indraprastha Institute of Information Technology Delhi (IIITD)" : "[Ongoing] Probability based Intrusion prediction on a partially observable environment",
+    "Delhi Technological University (DTU)" : "[Ongoing] Mitigating direct and indirect gender bias in word embeddings"
+  },
+  "blogs":{
+    "Reinforcement learning: Temporal-Difference, SARSA, Q-Learning & Expected SARSA in python" : "<a href=\"https://towardsdatascience.com/reinforcement-learning-temporal-difference-sarsa-q-learning-expected-sarsa-on-python-9fecfda7467e\"  target=\"_blank\">Click here</a>",
+    "PyTorch Autograd" : "<a href=\"https://towardsdatascience.com/pytorch-autograd-understanding-the-heart-of-pytorchs-magic-2686cd94ec95\"  target=\"_blank\">Click here</a>",
+    "Random forests and decision trees from scratch in python" : "<a href=\"https://towardsdatascience.com/random-forests-and-decision-trees-from-scratch-in-python-3e4fa5ae4249\"  target=\"_blank\">Click here</a>",
+    "Deploy Machine Learning Models for Free" : "<a href=\"https://medium.com/analytics-vidhya/how-to-deploy-simple-machine-learning-models-for-free-56cdccc62b8d\"  target=\"_blank\">Click here</a>"
+  },
+  "error":{
+    "Error" : "Invalid command. Type help for help"
+  }
+}
