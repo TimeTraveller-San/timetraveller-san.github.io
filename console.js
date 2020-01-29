@@ -1,4 +1,4 @@
-var url = "https://gist.githubusercontent.com/TimeTraveller-San/ee2ac6407e15f3d5f204282188a96eda/raw/7df4980117144adfe95d280045e6ceeb488a1952/info.json"
+var url = "https://gist.githubusercontent.com/TimeTraveller-San/ee2ac6407e15f3d5f204282188a96eda/raw/095b840ce1a7bf29ef1a25383fee1ac5884c8c12/info.json"
 $(document).ready(function() {
   document.getElementsByClassName("commands")[0].value="";
   $.getJSON(url, function(mydata) {
