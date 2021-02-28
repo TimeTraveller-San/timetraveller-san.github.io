@@ -1,5 +1,5 @@
 # Vaibhav Kumar's Personal Website
-【 *Neocortex helped us explore the earth, maybe, AGI will help us explore the cosmos* 】
+【 *Neocortex (evolved over millions of years) helped us explore the earth; AGI might help us explore the cosmos* 】
 
 <img src="asset/tiling.png" alt="hyperbolic tiling" style="width:500px;"/>
 
@@ -7,16 +7,16 @@
 *Hyper-tile-ception* -- A Hyperbolic tiling of the the Circle Limit IV by Escher
 
 ``` 
-_________________________________________ 
-/ Hi, I am Vaibhav, a computer science    \
+ _________________________________________ 
+/ Hi, I am Vaibhav. A computer science    \
 | graduate currently working as an        |
 | associate data scientist at             |
-| UnitedHealth group. I am also a         |
-| researcher focusing upon Natural        |
-| Language Processing, Reinforcement      |
-| Learning, Machine Learning and Computer |
-| vision. I am actually not a penguin,    |
-\ much worse, I am a human.               /
+| UnitedHealth Group. I am also a         |
+| researcher primarily focusing upon      |
+| Natural Language Processing, Machine    |
+| Learning and Reinforcement Learning.    |
+| Also, I am not a penguin, much worse, I |
+\ am a human.                             /
  ----------------------------------------- 
    \
     \
